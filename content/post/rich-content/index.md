@@ -8,7 +8,7 @@ tags: [
     "privacy",
 ]
 categories: [
-    "Test 2",
+    "Test",
 ]
 toc: false
 ---

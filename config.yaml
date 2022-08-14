@@ -54,10 +54,13 @@ params:
 
   comments:
     enabled: true
-    provider: utterances
+    provider: disqus
+
+    disqusjs:
+        shortname: nehop
 
     utterances:
-      repo: https://github.com/filiprafaj/hugo-nehop
+      repo: filiprafaj/hugo-nehop
       issueTerm: comments
       label: comments
 
