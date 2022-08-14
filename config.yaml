@@ -58,6 +58,11 @@ params:
 
     disqusjs:
         shortname: nehop
+        apiUrl:
+        apiKey:
+        admin:
+        adminLabel:
+
 
     utterances:
       repo: filiprafaj/hugo-nehop

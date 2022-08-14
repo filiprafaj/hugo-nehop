@@ -1,0 +1,4 @@
+/// Overwrite CSS variable
+:root {
+    --base-font-family: "Merriweather", var(--sys-font-family), var(--zh-font-family), sans-serif;
+}
