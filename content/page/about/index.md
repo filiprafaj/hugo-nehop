@@ -1,7 +1,7 @@
 ---
 title: O nás
 description: Parta kamarádů z Pelhřimova a okolí, která založila v roce 2006 lezecký oddíl, v současné době kromě horolezecké činnosti provozuje dětský sportovní oddíl.
-slug: about
+slug: onas
 menu:
     main:
         weight: -90
