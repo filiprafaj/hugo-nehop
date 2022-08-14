@@ -47,7 +47,6 @@ params:
 
   article:
     math: false
-    toc: false
     readingTime: false
     license:
       enabled: false
@@ -98,12 +97,12 @@ menu:
 
   social:
     - identifier: facebook
-      name: Facebook
+      name: NEHOP
       url: https://www.facebook.com/NEHOP-2305231903039428
       params:
         icon: brand-facebook
     - identifier: facebook-kids
-      name: Facebook dětský oddíl
+      name: Oddíl
       url: https://www.facebook.com/groups/394094867743686/
       params:
         icon: friends

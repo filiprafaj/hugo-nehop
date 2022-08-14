@@ -1,13 +1,13 @@
 ---
-title: "Search"
+title: "Vyhledávání"
 slug: "search"
 layout: "search"
 outputs:
-    - html
-    - json
+  - html
+  - json
 menu:
-    main:
-        weight: -60
-        params: 
-            icon: search
+  main:
+    weight: -60
+    params:
+      icon: search
 ---
