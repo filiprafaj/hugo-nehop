@@ -16,6 +16,8 @@ links:
     description: Facebook skupina
     website: https://www.facebook.com/groups/394094867743686/
     image: fb-logo.png
+comments:
+  enabled: false
 ---
 
 Hlavním působištěm oddílu jsou skály v okolí Želiva nad přehradou Vřesník, které jsou vzdálené cca 20km od Pelhřimova. Pokud budete mít zájem, přidejte se k nám. Rádi Vás zasvětíme do technik lezení, ať již v Želivě na skalách nebo na umělé stěně.
