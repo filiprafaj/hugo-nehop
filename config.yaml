@@ -50,7 +50,6 @@ params:
     readingTime: false
     license:
       enabled: false
-      default: NEHOP
 
   comments:
     enabled: true
