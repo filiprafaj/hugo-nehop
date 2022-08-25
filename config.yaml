@@ -112,7 +112,7 @@ menu:
       name: Oddíl
       url: https://www.facebook.com/groups/394094867743686/
       params:
-        icon: friends
+        icon: brand-facebook
 
 related:
   includeNewer: true
