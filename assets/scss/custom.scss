@@ -2,17 +2,3 @@
 :root {
     --base-font-family: "Merriweather", var(--sys-font-family), var(--zh-font-family), sans-serif;
 }
-.social-menu { 
-     list-style: none; 
-     padding: 0; 
-     margin: 0; 
-     display: flex; 
-     flex-direction: row; 
-     gap: 10px; 
-  
-     svg { 
-         width: 24px; 
-         height: 24px; 
-         stroke-width: 1.33; 
-     } 
- }
