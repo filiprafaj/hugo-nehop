@@ -7,6 +7,7 @@ menu:
         weight: -75
         params:
             icon: book
+image: "nehop.jpg"
 
 ---
 

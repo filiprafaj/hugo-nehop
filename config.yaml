@@ -52,36 +52,11 @@ params:
       enabled: false
 
   comments:
-    enabled: true
-    provider: disqus
+    enabled: false
 
-    disqusjs:
-        shortname: nehop
-        apiUrl:
-        apiKey:
-        admin:
-        adminLabel:
-
-
-    utterances:
-      repo: filiprafaj/hugo-nehop
-      issueTerm: comments
-      label: comments
-
-  widgets:
-    homepage:
-      - type: search
-      - type: archives
-        params:
-          limit: 5
-      - type: categories
-        params:
-          limit: 10
-      - type: tag-cloud
-        params:
-          limit: 10
-    page:
-      - type: toc
+  # widgets:
+  #   page:
+  #     - type: toc
 
   colorScheme:
     # Display toggle
@@ -102,17 +77,17 @@ params:
 menu:
   main: []
 
-  social:
-    - identifier: facebook
-      name: NEHOP
-      url: https://www.facebook.com/NEHOP-2305231903039428
-      params:
-        icon: brand-facebook
-    - identifier: facebook-kids
-      name: Oddíl
-      url: https://www.facebook.com/groups/394094867743686/
-      params:
-        icon: brand-facebook
+  # social:
+  #   - identifier: facebook
+  #     name: NEHOP
+  #     url: https://www.facebook.com/NEHOP-2305231903039428
+  #     params:
+  #       icon: brand-facebook
+  #   - identifier: facebook-kids
+  #     name: Oddíl
+  #     url: https://www.facebook.com/groups/394094867743686/
+  #     params:
+  #       icon: brand-facebook
 
 related:
   includeNewer: true
