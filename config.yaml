@@ -77,28 +77,6 @@ params:
 menu:
   main: []
 
-  # social:
-  #   - identifier: facebook
-  #     name: NEHOP
-  #     url: https://www.facebook.com/NEHOP-2305231903039428
-  #     params:
-  #       icon: brand-facebook
-  #   - identifier: facebook-kids
-  #     name: Oddíl
-  #     url: https://www.facebook.com/groups/394094867743686/
-  #     params:
-  #       icon: brand-facebook
-
-related:
-  includeNewer: true
-  threshold: 60
-  toLower: false
-  indices:
-    - name: tags
-      weight: 100
-
-    - name: categories
-      weight: 200
 
 markup:
   goldmark:
