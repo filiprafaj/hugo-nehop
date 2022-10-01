@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on NEHOP</title>
+        <link>/categories/</link>
+        <description>Recent content in Categories on NEHOP</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Děti</title>
+        <link>/categories/deti/</link>
+        <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+        
+        <guid>/categories/deti/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>NEHOP</title>
+        <link>/categories/nehop/</link>
+        <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+        
+        <guid>/categories/nehop/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
