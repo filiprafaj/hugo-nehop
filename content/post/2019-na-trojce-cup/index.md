@@ -1,7 +1,7 @@
 +++
 author = "Kuba"
 title = "Na Trojce Cup 2019"
-date = "2019"
+date = "2019-12-14"
 description = ""
 
 categories = ["deti"]

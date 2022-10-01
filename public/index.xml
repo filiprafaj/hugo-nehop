@@ -1515,33 +1515,9 @@ Pokud má zájem o výuku i někdo mladší, není to problém za předpokladu, 
 </description>
         </item>
         <item>
-        <title>Archiv</title>
-        <link>/oddil/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>/oddil/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Kontakt</title>
-        <link>/kontakt/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>/kontakt/</guid>
-        <description>&lt;h4 id=&#34;jakub-rybář&#34;&gt;Jakub Rybář&lt;/h4&gt;
-&lt;p&gt;předseda oddílu&lt;br&gt;
-&lt;a class=&#34;link&#34; href=&#34;mailto:rybar.projekt@gmail.com&#34; &gt;rybar.projekt@gmail.com&lt;/a&gt;&lt;br&gt;
-724 817 469&lt;/p&gt;
-&lt;h4 id=&#34;martin-sankot&#34;&gt;Martin Sankot&lt;/h4&gt;
-&lt;p&gt;místopředseda oddílu, správce skal Želiv&lt;br&gt;
-&lt;a class=&#34;link&#34; href=&#34;mailto:sankot.martin@seznam.cz&#34; &gt;sankot.martin@seznam.cz&lt;/a&gt;&lt;br&gt;
-725 860 205&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>Na Trojce Cup 2019</title>
         <link>/p/na-trojce-cup-2019/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
         
         <guid>/p/na-trojce-cup-2019/</guid>
         <description>&lt;img src="/p/na-trojce-cup-2019/images/1.JPG" alt="Featured image of post Na Trojce Cup 2019" /&gt;
@@ -2269,6 +2245,30 @@ Pokud má zájem o výuku i někdo mladší, není to problém za předpokladu, 
 	});
 &lt;/script&gt;
 
+</description>
+        </item>
+        <item>
+        <title>Archiv</title>
+        <link>/oddil/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>/oddil/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Kontakt</title>
+        <link>/kontakt/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>/kontakt/</guid>
+        <description>&lt;h4 id=&#34;jakub-rybář&#34;&gt;Jakub Rybář&lt;/h4&gt;
+&lt;p&gt;předseda oddílu&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;mailto:rybar.projekt@gmail.com&#34; &gt;rybar.projekt@gmail.com&lt;/a&gt;&lt;br&gt;
+724 817 469&lt;/p&gt;
+&lt;h4 id=&#34;martin-sankot&#34;&gt;Martin Sankot&lt;/h4&gt;
+&lt;p&gt;místopředseda oddílu, správce skal Želiv&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;mailto:sankot.martin@seznam.cz&#34; &gt;sankot.martin@seznam.cz&lt;/a&gt;&lt;br&gt;
+725 860 205&lt;/p&gt;
 </description>
         </item>
         <item>
