@@ -7,16 +7,29 @@ menu:
         weight: -75
         params:
             icon: book
-image: "nehop.jpg"
 
 ---
 
 ## Želiv
-### Skály
-### Boulder
-## Lešov I.
-Lešov I.
-## Lešov II.
-Lešov II.
-## Senožaty
-Senožaty
+{{< gallery match="images-zeliv/*"
+    sortOrder="asc"
+    rowHeight="130"
+    margins="5"
+    thumbnailResizeOptions="600x600 q90 Lanczos"
+    showExif=false
+    previewType="blur"
+    embedPreview="true"
+    loadJQuery=true
+>}}
+
+## Lešov
+{{< gallery match="images-lesov/*"
+    sortOrder="asc"
+    rowHeight="130"
+    margins="5"
+    thumbnailResizeOptions="600x600 q90 Lanczos"
+    showExif=false
+    previewType="blur"
+    embedPreview="true"
+    loadJQuery=true
+>}}

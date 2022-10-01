@@ -23,7 +23,7 @@ Jsme parta kamarádů z Pelhřimova a okolí, která založila v roce 2006 lezec
 
 Hlavním působištěm oddílu jsou pískovcové skalní oblasti v Čechách, Tatry, Alpy a také skály v okolí Želiva nad přehradou Vřesník, které jsou vzdálené cca 20km od Pelhřimova. Pokud budete mít zájem, přidejte se k nám. Rádi Vás zasvětíme do technik lezení, ať již v Želivě na skalách nebo na umělé stěně. Také pořádáme oddílové akce pro začátečníky zaměřené na lezení na pískovci, nebo lezení v horách.
 
-{{< gallery match="images_oddil/*"
+{{< gallery match="images-oddil/*"
     sortOrder="asc"
     rowHeight="130"
     margins="5"
@@ -39,7 +39,7 @@ Hlavním působištěm oddílu jsou pískovcové skalní oblasti v Čechách, Ta
 
 Dětský oddíl v současné době pořádá dvakrát ročně výjezd do pískovcových skalních oblastí Českého ráje nebo Českosaského Švýcarska. Termíny dětských akcí se víceméně ustálili, pro jaro je termín začátkem června a pro podzim je termín koncem září.
 
-{{< gallery match="images_deti/*"
+{{< gallery match="images-deti/*"
     sortOrder="asc"
     rowHeight="130"
     margins="5"

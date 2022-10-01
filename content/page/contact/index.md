@@ -15,7 +15,6 @@ links:
     description: Facebook skupina
     website: https://www.facebook.com/groups/394094867743686/
     image: fb-logo.png
-image: "nehop.jpg"
 ---
 
 #### Jakub Rybář
