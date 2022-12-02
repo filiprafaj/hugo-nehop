@@ -1,11 +1,11 @@
 ---
-title: O nás
-slug: onas
+title: Dětský kroužek lezení
+slug: krouzek
 menu:
     main:
-        weight: -100
+        weight: -80
         params:
-            icon: mountain
+            icon: sun
 links:
   - title: NEHOP
     description: Facebook stránka

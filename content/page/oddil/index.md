@@ -1,11 +1,11 @@
 ---
-title: O nás
-slug: onas
+title: Oddílové akce
+slug: oddil
 menu:
     main:
-        weight: -100
+        weight: -90
         params:
-            icon: mountain
+            icon: hand
 links:
   - title: NEHOP
     description: Facebook stránka

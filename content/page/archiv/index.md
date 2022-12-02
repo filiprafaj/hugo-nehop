@@ -1,10 +1,10 @@
 ---
 title: "Archiv"
 layout: "archives"
-slug: "oddil"
+slug: "archiv"
 menu:
     main:
-        weight: -80
+        weight: -70
         params:
             icon: archives
 ---
