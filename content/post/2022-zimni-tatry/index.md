@@ -3,7 +3,7 @@ author = "Kuba"
 title = "Zimní Tatry 2022"
 date = "2022-02-13"
 description = "oddílová akce"
-categories = ["nehop"]
+collection = "oddil"
 image = "images/12.jpg"
 +++
 

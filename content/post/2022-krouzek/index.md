@@ -4,7 +4,7 @@ title = "Lezecký kroužek v roce 2022/2023"
 date = "2022-10-01"
 description = "začíná od října"
 
-categories = ["deti"]
+collection = "krouzek"
 image = "images/3.jpg"
 +++
 

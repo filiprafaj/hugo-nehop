@@ -4,7 +4,7 @@ title = "Na Trojce Cup 2019"
 date = "2019-12-14"
 description = ""
 
-categories = ["deti"]
+collection = "krouzek"
 image = "images/1.jpg"
 +++
 

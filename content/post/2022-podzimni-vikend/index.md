@@ -4,7 +4,7 @@ title = "Podzimní víkend 2022 – dětské lezení"
 date = "2022-09-21"
 description = "20-21.9.2022, Tisá"
 
-categories = ["deti"]
+collection = "krouzek"
 image = "images/1.jpg"
 +++
 
