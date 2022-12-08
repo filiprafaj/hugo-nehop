@@ -19,9 +19,9 @@ image: "nehop.jpg"
 
 ---
 
-Jsme parta kamarádů z Pelhřimova a okolí, která založila v roce 2006 lezecký oddíl, v současné době kromě horolezecké činnosti provozuje dětský sportovní oddíl.
+Jsme parta kamarádů z Pelhřimova a okolí, která založila v roce 2006 lezecký oddíl. V současné době kromě horolezecké činnosti provozujeme také dětský sportovní oddíl.
 
-Hlavním působištěm oddílu jsou pískovcové skalní oblasti v Čechách, Tatry, Alpy a také skály v okolí Želiva nad přehradou Vřesník, které jsou vzdálené cca 20km od Pelhřimova. Pokud budete mít zájem, přidejte se k nám. Rádi Vás zasvětíme do technik lezení, ať již v Želivě na skalách nebo na umělé stěně. Také pořádáme oddílové akce pro začátečníky zaměřené na lezení na pískovci, nebo lezení v horách.
+Naším hlavním působištěm jsou pískovcové skalní oblasti v Čechách, Tatry, Alpy a také skály v okolí Želiva nad přehradou Vřesník cca 20km od Pelhřimova. Pokud budete mít zájem, přidejte se k nám. Rádi Vás zasvětíme do technik lezení, ať již v Želivě na skalách nebo na umělé stěně. Také pořádáme oddílové akce pro začátečníky zaměřené na lezení na pískovci, nebo lezení v horách.
 
 {{< gallery match="images-oddil/*"
     sortOrder="asc"
