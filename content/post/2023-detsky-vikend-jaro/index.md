@@ -1,7 +1,7 @@
 +++
 author = "Kuba"
 title = "Dětský lezecký víkend v Ostrově – Jaro 2023"
-date = "2023-05-26"
+date = "2023-01-01"
 description = "26-28.5.2023"
 collection = "krouzek"
 image = "images/1.jpg"

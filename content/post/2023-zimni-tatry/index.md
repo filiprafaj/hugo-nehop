@@ -2,7 +2,7 @@
 author = "Kuba"
 title = "Zimní Tatry 2023"
 date = "2023-03-10"
-description = "oddílová akce"
+description = "oddílová akce 10-12.3.2023"
 collection = "oddil"
 image = "images/01.jpg"
 +++

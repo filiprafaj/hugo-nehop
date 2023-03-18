@@ -1,8 +1,8 @@
 +++
 author = "Kuba"
-title = "Podzimní víkend 2022 – dětské lezení"
+title = "Dětský lezecký víkend v Tisé – Podzim 2023"
 date = "2022-09-21"
-description = "20-21.9.2022, Tisá"
+description = "20-21.9.2022"
 
 collection = "krouzek"
 image = "images/1.jpg"

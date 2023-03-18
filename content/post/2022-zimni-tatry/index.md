@@ -2,12 +2,12 @@
 author = "Kuba"
 title = "Zimní Tatry 2022"
 date = "2022-02-13"
-description = "oddílová akce"
+description = "oddílová akce 11-13.2.2022"
 collection = "oddil"
 image = "images/12.jpg"
 +++
 
-Začátkem Února 11-13. 2. 2022 proběhla oddílová akce v Tatrách na Popradském plese. Akce byla zaměřena na základy pohybu v zimních horách a byla určena i pro začátečníky. Převážně jsme lyžovali, protože byly krásné podmínky, ale i jsme něco vylezli (Vysoká 2547 m).
+Začátkem Února 11-13.2.2022 proběhla oddílová akce v Tatrách na Popradském plese. Akce byla zaměřena na základy pohybu v zimních horách a byla určena i pro začátečníky. Převážně jsme lyžovali, protože byly krásné podmínky, ale i jsme něco vylezli (Vysoká 2547 m).
 
 Kuba
 
