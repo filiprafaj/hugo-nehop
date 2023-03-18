@@ -2,26 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/deti/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/p/lezeck%C3%BD-krou%C5%BEek-v-roce-2022/2023/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <loc>/p/d%C4%9Btsk%C3%BD-lezeck%C3%BD-v%C3%ADkend-v-ostrov%C4%9B-jaro-2023/</loc>
+    <lastmod>2023-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/</loc>
+    <lastmod>2023-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/p/lezeck%C3%BD-krou%C5%BEek-v-roce-2022/2023/</loc>
     <lastmod>2022-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/p/podzimn%C3%AD-v%C3%ADkend-2022-d%C4%9Btsk%C3%A9-lezen%C3%AD/</loc>
     <lastmod>2022-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/nehop/</loc>
-    <lastmod>2022-02-13T00:00:00+00:00</lastmod>
+    <loc>/p/p%C3%ADskovce-2023-odd%C3%ADlov%C3%A1-akce-l%C3%A9to/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/p/zimn%C3%AD-tatry-2022/</loc>
     <lastmod>2022-02-13T00:00:00+00:00</lastmod>
@@ -29,7 +26,7 @@
     <loc>/p/na-trojce-cup-2019/</loc>
     <lastmod>2019-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/archiv/</loc>
+    <loc>/categories/</loc>
   </url><url>
     <loc>/krouzek/</loc>
   </url><url>
