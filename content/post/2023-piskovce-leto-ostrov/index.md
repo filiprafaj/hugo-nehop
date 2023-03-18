@@ -8,6 +8,7 @@ image = "images/01.jpg"
 +++
 
 Nabízím možnost uspořádání nějakého víkendu na pískovcových skalách v ČR. Pokud má někdo zájem prosím ozvěte se a začneme domlouvat termín. Předběžně nabízím 16-18.6.2023 v Ostrově.
+
 Místo konání: Autokemp pod Císařem
 
 Kuba
