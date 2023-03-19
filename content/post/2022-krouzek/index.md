@@ -1,7 +1,7 @@
 +++
 author = "Kuba"
 title = "Lezecký kroužek v roce 2022/2023"
-date = "2022-10-01"
+date = "2022-01-01"
 description = "začíná od října"
 
 collection = "krouzek"
