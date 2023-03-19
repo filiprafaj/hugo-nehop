@@ -1,7 +1,7 @@
 +++
 author = "Kuba"
 title = "Pískovce 2023"
-date = "2023-01-01"
+date = "2023-03-19"
 description = "oddílová akce"
 collection = "oddil"
 image = "images/01.jpg"
