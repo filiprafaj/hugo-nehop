@@ -3,7 +3,7 @@ author = "Kuba"
 title = " 22.5.2023 bude kroužek lezení venku"
 date = "2023-05-19"
 description = "bouldering na skalách v Želivě"
-collection = "oddil"
+collection = "krouzek"
 +++
 
 Dobrý den/ Ahoj, v pondělí 22.5.2023 bude kroužek lezení (bouldering) výjimečně venku na skalách v Želivě.
