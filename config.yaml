@@ -52,7 +52,12 @@ params:
       enabled: false
 
   comments:
-    enabled: false
+    enabled: true
+    provider: cactus
+    cactus:
+            defaultHomeserverUrl: "https://matrix.cactus.chat:8448"
+            serverName: "cactus.chat"
+            siteName: "nehop.cz"
 
   # widgets:
   #   page:
