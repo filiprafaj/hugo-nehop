@@ -1,5 +1,6 @@
 ---
 title: Kontakt
+layout: "page"
 slug: kontakt
 menu:
     main:
