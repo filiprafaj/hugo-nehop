@@ -1,5 +1,6 @@
 ---
 title: "Průvodce Pelhřimovsko"
+layout: "page"
 description: "Lezecké oblasti na Pelhřimovsku"
 slug: pruvodce
 menu:
