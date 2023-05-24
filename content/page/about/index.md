@@ -1,5 +1,6 @@
 ---
 title: O nás
+layout: "page"
 slug: onas
 menu:
     main:
