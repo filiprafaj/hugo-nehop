@@ -4,15 +4,12 @@ module:
     max: ""
     min: 0.83
 
-languageCode: en
 theme: ["hugo-theme-stack", "hugo-shortcode-gallery"]
 paginate: 5
 title: NEHOP
 
 # Change it to your Disqus shortname before using
 disqusShortname: nehop
-
-DefaultContentLanguage: en
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
@@ -55,9 +52,9 @@ params:
     enabled: true
     provider: cactus
     cactus:
-            defaultHomeserverUrl: "https://matrix.cactus.chat:8448"
-            serverName: "cactus.chat"
-            siteName: "nehop.cz"
+      defaultHomeserverUrl: "https://matrix.cactus.chat:8448"
+      serverName: "cactus.chat"
+      siteName: "nehop.cz"
 
   # widgets:
   #   page:
@@ -81,7 +78,6 @@ params:
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
   main: []
-
 
 markup:
   goldmark:
