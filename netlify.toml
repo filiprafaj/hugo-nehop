@@ -1,0 +1,10 @@
+[build]
+command = "hugo mod tidy && hugo --gc --minify"
+publish = "public"
+
+[context.production.environment]
+HUGO_ENABLEGITINFO = "true"
+HUGO_ENV = "production"
+HUGO_VERSION = "0.119.0"
+NODE_VERSION = "v18.13.0"
+NPM_VERSION = "9.2.0"
